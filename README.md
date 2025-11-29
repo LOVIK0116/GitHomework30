@@ -20,4 +20,4 @@
    git clone https://github.com/LOVIK0116/GitHomework30.git
    cd GitHomework30
 
-## 功能示例：输出Hello
+## 功能示例：输出Hello Git
