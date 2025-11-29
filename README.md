@@ -20,4 +20,8 @@
    git clone https://github.com/LOVIK0116/GitHomework30.git
    cd GitHomework30
 
+<<<<<<< HEAD
 ## 功能示例：输出Hello World
+=======
+## 功能示例：输出Hello Git
+>>>>>>> feature/add-hello
